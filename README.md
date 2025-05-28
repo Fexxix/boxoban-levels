@@ -54,8 +54,6 @@ boxoban/
 Each `.txt` file contains puzzles in this format:
 
 ```
-
-; 0
 ; 0
 ##########
 #   ##  ##
